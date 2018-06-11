@@ -12,14 +12,15 @@ I.E you send `"chatting with code!".toUpperCase().split(' ').join('')` and the o
 
 
 # What's working now
-[x] Chatting
-[x] getting a chat log for the last 50 messages when starting the client
-[x] defining functions for later use
-[x] sending / receving messages
+
+* [x] Chatting
+* [x] getting a chat log for the last 50 messages when starting the client
+* [x] defining functions for later use
+* [x] sending / receving messages
 
 # TODO
 
-[ ] Channels
-[ ] PMs
-[ ] Tabs
-[ ] Async functions
+* [ ] Channels
+* [ ] PMs
+* [ ] Tabs
+* [ ] Async functions
